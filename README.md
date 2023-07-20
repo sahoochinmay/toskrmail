@@ -4,4 +4,8 @@ An email client for business productivity. Task Board, task follow up board, fil
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Slide3.png)
+#
+![App Screenshot](Slide4.png)
+#
+`#Reactjs` `#Redux` `#Material UI` `#iMap` `#Full-calendar` `#Suneditor` `#Apexcharts` `#Microsoft and google SSO` `#Recaptcha` `#ChartJS` `#Admin Panels` `#Task Management with follow-up and follow-in` `#File Management` `#Contact Management`
